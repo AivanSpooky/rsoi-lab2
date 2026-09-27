@@ -185,6 +185,7 @@ build-iPhoneSimulator/
 *.o
 *.obj
 
+# test
 # Precompiled Headers
 *.gch
 *.pch
